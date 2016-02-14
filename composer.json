@@ -2,7 +2,7 @@
   "name": "sfynx-project/annotation-encrypt-bundle",
   "type": "symfony-bundle",
   "description": "This Bundle provides annotations to encrypt fields",
-  "keywords": ["cmf", "acl"],
+  "keywords": ["annotations", "encrypt"],
   "homepage": "http://pigroupe.github.io/cmf-sfynx/",
   "license": "MIT",
   "authors": [
